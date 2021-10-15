@@ -1,5 +1,5 @@
 # Hello! I'm Curtis.
 
-## I am a professional programmer and front-end developer.
+## I am a Node.js Developer.
 
-### I recently earned my Full Stack JavaScript Developer Nanodegree from Udacity. I love the design aspect of front-end development and the logic aspect of back-end development!
+### I love creating fast websites and applications with a focus on front-end engineering.
