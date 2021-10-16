@@ -2,4 +2,4 @@
 
 ## I'm a Node.js developer.
 
-### I love creating web apps and websites from scratch!
+### I love creating apps and websites from scratch!
