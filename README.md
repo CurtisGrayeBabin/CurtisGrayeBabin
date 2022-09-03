@@ -1,5 +1,5 @@
 # Hello! I'm Curtis.
 
-## I'm a front-end developer.
+## I am a freelance & professional web developer.
 
 ### I love creating apps and websites :)
