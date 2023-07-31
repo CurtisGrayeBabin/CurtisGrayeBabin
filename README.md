@@ -1,5 +1,5 @@
 # Hello! I'm Curtis.
 
-## I am a professional web developer and supervisor.
+## I am a front-end developer and supervisor.
 
-#### [My site &#127760;](https://www.curtisbabin.com)
+## [My Website &#127760;](https://www.curtisbabin.com)
